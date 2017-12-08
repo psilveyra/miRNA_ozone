@@ -1,4 +1,10 @@
 ## miRNA data repository
 
-Ct values, treatment matrix, and calculated expression values for all samples are uploaded in separate .csv files. The R code is also included.
+Ct values
+
+Treatment matrix
+
+Calculated expression values (delta delta Ct method)
+
+R code for statistical analysis, arrays and plots
 
